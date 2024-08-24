@@ -47,7 +47,7 @@
     "lodash": "^3.9.3",
     "longest": "^1.0.1",
     "meow": "3.3.0",
-    "micromatch": "2.3.5",
+    "micromatch": "4.0.8",
     "opn": "^3.0.2",
     "portscanner": "^1.0.0",
     "query-string": "^2.4.0",
